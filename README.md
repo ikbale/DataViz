@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DataViz
 
 #Gantt Chart
@@ -79,3 +80,6 @@ We can see that tasks are grouped by sprints as known in Agile methods as **Scru
 * [https://project-management.com/advantages-and-disadvantages-of-gantt-charts/](https://project-management.com/advantages-and-disadvantages-of-gantt-charts/)
 * [https://www.teamgantt.com/blog/how-to-use-gantt-charts-for-your-agile-project/](https://www.teamgantt.com/blog/how-to-use-gantt-charts-for-your-agile-project/)
 * [http://www.ganttchart.com/gantt_chart_variations.htm](http://www.ganttchart.com/gantt_chart_variations.htm)
+=======
+# DataViz
+>>>>>>> 9477dfb1761ce7125be33b2d033888a105a934e6
