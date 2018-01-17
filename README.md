@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # DataViz
 
-#Gantt Chart
+# Gantt Chart
 
 ----
 ## What is a Gantt Chart?
@@ -65,14 +64,15 @@ The charts indicates only the time and the period of the task but not its comple
 They need to be updated constantly so the process of changing the charts should be convenient.
 
 
-##Conclusion
+## Conclusion
+
 I think with the importance raised over project management methods, the Gantt chart can be fused with several ones like **Agile** methods. we can finish by a simple illustration of this fusion:
 ![Gantt_chart_agile](http://https://github.com/ikbale/DataViz/tree/master#dataviz/img/Gantt_chart_agile.png)
 
 We can see that tasks are grouped by sprints as known in Agile methods as **Scrum**.For further informations on the Scrum method, visit the link below:
 [https://www.mountaingoatsoftware.com/agile/scrum](https://www.mountaingoatsoftware.com/agile/scrum)
 ----
-##Resources
+## Resources
 * [https://www.businessnewsdaily.com/4031-gantt-chart.html](https://www.businessnewsdaily.com/4031-gantt-chart.html)
 * [https://www.youtube.com/watch?v=ADK58IRPKh8](https://www.youtube.com/watch?v=ADK58IRPKh8)
 
@@ -83,4 +83,4 @@ We can see that tasks are grouped by sprints as known in Agile methods as **Scru
 * [http://www.ganttchart.com/gantt_chart_variations.htm](http://www.ganttchart.com/gantt_chart_variations.htm)
 =======
 # DataViz
->>>>>>> 9477dfb1761ce7125be33b2d033888a105a934e6
+
