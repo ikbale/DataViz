@@ -13,7 +13,7 @@ So basically, a Gantt chart is a bar graph that illustrates a project's schedule
 
 that's what a basic Gantt chart looks like:
 
-![basic_gant](http://https://github.com/ikbale/DataViz/tree/master#dataviz/img/basic_gant.png)
+![basic_gant](img/basic_gant.png)
 
 ## Historical examples of Gantt Chart
 
@@ -23,14 +23,14 @@ Infrastructure is one of the first fields that utilized the *Gantt Chart*. The *
 remarquable example of a *Gantt* success story because by using this technique, the project was finished *two* years ahead.  
 here is the original representation of the diagram :
 
-![Hoover-Dam-Gantt](http://https://github.com/ikbale/DataViz/tree/master#dataviz/img/Hoover-Dam-Gantt.jpg)
+![Hoover-Dam-Gantt](img/Hoover-Dam-Gantt.jpg)
 
 
 > the Hoover Dam is a dam on the border between the two of U.S. states: Nevada and Arizona.
 
 #### 2. WW1 Navy
 
-![ww1_navy](http://https://github.com/ikbale/DataViz/tree/master#dataviz/img/ww1_navy.png)
+![ww1_navy](img/ww1_navy.png)
 
 ----
 ## Critics
@@ -43,15 +43,15 @@ As shown above, The gantt chart is a simple grid formed by a series of horizonta
 * Task dependencies.
 * Names of resources needed to complete the task.
 
-![Gantt-chart-JIRA](http://https://github.com/ikbale/DataViz/tree/master#dataviz/img/Gantt-chart-JIRA.png)
+![Gantt-chart-JIRA](img/Gantt-chart-JIRA.png)
 
 ### 2. Variations
-Multiple charts are used along with the Gantt chart, the most popular combinationis:
+Multiple charts are used along with the Gantt chart, the most popular combination is:
 
 ###### 1. Milestone chart : 
 This type of charts is used to show only the most important steps of the project. So when combined with the Gantt chart, it gives the result shown below:
 
-![milestones](http://https://github.com/ikbale/DataViz/tree/master#dataviz/img/milestones.png)
+![milestones](img/milestones.png)
 
 > Important milestones are shown with a single diamond symbol.
 
@@ -69,7 +69,7 @@ They need to be updated constantly so the process of changing the charts should 
 
 I think with the importance raised over project management methods, the Gantt chart can be fused with several ones like **Agile** methods. we can finish by a simple illustration of this fusion:
 
-![Gantt_chart_agile](http://https://github.com/ikbale/DataViz/tree/master#dataviz/img/Gantt_chart_agile.png)
+![Gantt_chart_agile](img/Gantt_chart_agile.png)
 We can see that tasks are grouped by sprints as known in Agile methods as **Scrum**.For further informations on the Scrum method, visit the link below:
 [https://www.mountaingoatsoftware.com/agile/scrum](https://www.mountaingoatsoftware.com/agile/scrum)
 
