@@ -12,7 +12,6 @@ Gantt was first introduced in the 1910's by **Henry Gantt**. It is a graphical r
 So basically, a Gantt chart is a bar graph that illustrates a project's schedule, including the start and finish dates of project segments.
 
 that's what a basic Gantt chart looks like:
-
 ![basic_gant](img/basic_gant.png)
 
 ## Historical examples of Gantt Chart
@@ -51,7 +50,7 @@ Multiple charts are used along with the Gantt chart, the most popular combinatio
 ###### 1. Milestone chart : 
 This type of charts is used to show only the most important steps of the project. So when combined with the Gantt chart, it gives the result shown below:
 
-![milestones](img/milestones.png)
+![milestones](img/milestones_chart.png)
 
 > Important milestones are shown with a single diamond symbol.
 
