@@ -13,6 +13,7 @@ Gantt was first introduced in the 1910's by **Henry Gantt**. It is a graphical r
 So basically, a Gantt chart is a bar graph that illustrates a project's schedule, including the start and finish dates of project segments.
 
 that's what a basic Gantt chart looks like:
+
 ![basic_gant](http://https://github.com/ikbale/DataViz/tree/master#dataviz/img/basic_gant.png)
 
 ## Historical examples of Gantt Chart
