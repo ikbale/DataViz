@@ -69,7 +69,7 @@ They need to be updated constantly so the process of changing the charts should 
 I think with the importance raised over project management methods, the Gantt chart can be fused with several ones like **Agile** methods. we can finish by a simple illustration of this fusion:
 
 ![Gantt_chart_agile](img/Gantt_chart_agile.png)
-We can see that tasks are grouped by sprints as known in Agile methods as **Scrum**.For further informations on the Scrum method, visit the link below:
+We can see that tasks are grouped by sprints as known in Agile methods as **Scrum**. For further informations on the Scrum method, visit the link below:
 [https://www.mountaingoatsoftware.com/agile/scrum](https://www.mountaingoatsoftware.com/agile/scrum)
 
 ## Resources
